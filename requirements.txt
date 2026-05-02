@@ -4,3 +4,4 @@ ucimlrepo
 matplotlib
 numpy
 scikit-learn
+seaborn
