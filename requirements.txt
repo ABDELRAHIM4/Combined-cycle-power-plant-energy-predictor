@@ -3,4 +3,4 @@ pandas
 ucimlrepo
 matplotlib
 numpy
-sklearn
+scikit-learn
